@@ -1,6 +1,6 @@
 Olá, sou a Garlli! Trabalho com segurança da informação.
 
-A seguir os principais Frameworks, Leis e Normativos em Segurança da Informação
+A seguir os principais Frameworks, Leis e Normativos em Segurança da Informação:
 
 1.	ISO 27001:
 o	A ISO 27001 é uma norma internacionalmente reconhecida que define os requisitos para um Sistema de Gestão de Segurança da Informação (SGSI). Ela oferece uma estrutura completa para identificar, avaliar e tratar riscos de segurança da informação em todas as áreas da organização.
